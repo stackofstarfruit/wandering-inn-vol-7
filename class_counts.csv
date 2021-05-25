@@ -1,0 +1,981 @@
+"","class_list","class_totals"
+"1","[Accountant]",0
+"2","[Acolyte]",2
+"3","[Acrobat]",0
+"4","[Actor]",35
+"5","[Actress]",6
+"6","[Adjutant]",0
+"7","[Administrator]",25
+"8","[Admiral]",17
+"9","[Adventurer]",6
+"10","[Adventuress]",2
+"11","[Aegiscaster]",39
+"12","[Aerial Dancer]",0
+"13","[Aeromancer]",4
+"14","[Aide]",11
+"15","[Alchemist]",380
+"16","[Ambassador]",0
+"17","[Ancient Magus]",0
+"18","[Angler]",0
+"19","[Animal Handler]",0
+"20","[Apothecary]",2
+"21","[Appraiser]",0
+"22","[Apprentice... ]",0
+"23","[Arachnologist]",0
+"24","[Arbalests]",1
+"25","[Arbiter]",1
+"26","[Arborist]",1
+"27","[Archer]",52
+"28","[Archer Captain]",1
+"29","[Architect]",53
+"30","[Archmage]",18
+"31","[Archmagus of Strength]",1
+"32","[Arctic Cryomancer]",0
+"33","[Arctic Ice Mage]",0
+"34","[Armored... ]",0
+"35","[Armorer]",10
+"36","[Armsmaster of Steel]",4
+"37","[Armsmaster]",6
+"38","[Armsmistress]",23
+"39","[Artificer]",0
+"40","[Artisan]",1
+"41","[Artist]",9
+"42","[Assassin]",268
+"43","[Assistant]",2
+"44","[Athlete]",1
+"45","[Auctioneer]",3
+"46","[Autumn Knight]",0
+"47","[Awesome Innkeeper]",0
+"48","[Axe Captain]",5
+"49","[Axe Champion]",4
+"50","[Axe Fighter]",0
+"51","[Axe Guard]",0
+"52","[Axehunter]",0
+"53","[Axeman]",0
+"54","[Axemaster]",0
+"55","[Axe Master]",0
+"56","[Axe Thrower]",1
+"57","[Axe Warrior]",1
+"58","[Backstabber]",0
+"59","[Badass]",0
+"60","[Baker]",15
+"61","[Bandit]",10
+"62","[Bandit Chief]",0
+"63","[Bandit Leader]",0
+"64","[Bandit Lord]",4
+"65","[Bandit Lady]",0
+"66","[Bandit Queen]",1
+"67","[Bandit King]",0
+"68","[Banner General]",1
+"69","[Bannerlady]",4
+"70","[Bannerman]",3
+"71","[Bassist]",4
+"72","[Barbarian]",2
+"73","[Barber]",1
+"74","[Bard]",155
+"75","[Barefoot Runner]",0
+"76","[Barkeep]",0
+"77","[Barkeeper]",0
+"78","[Barmaid]",12
+"79","[Barman]",0
+"80","[Bar Drake]",0
+"81","[Baron]",6
+"82","[Baroness]",8
+"83","[Bartender]",34
+"84","[Barrier Mage]",0
+"85","[Battle Flier]",0
+"86","[Battlemage]",11
+"87","[Battle Mage]",0
+"88","[Beastlord]",0
+"89","[Beastmaster]",0
+"90","[Beast Master]",8
+"91","[Beastraider Leader]",0
+"92","[Beastslayer]",0
+"93","[Beast Tamer]",10
+"94","[Beast Trainer]",13
+"95","[Beautician]",4
+"96","[Beauty]",1
+"97","[Beekeeper]",4
+"98","[Beggar]",4
+"99","[Behemoth]",0
+"100","[Belldrake]",0
+"101","[Berry Farmer]",0
+"102","[Berserker]",3
+"103","[Bird Hunter]",21
+"104","[Birdwatcher]",0
+"105","[Biter]",3
+"106","[Biologist]",3
+"107","[Blackguard]",0
+"108","[Blackpowder Engineer]",2
+"109","[Blacksmith]",57
+"110","[Blade Dancer]",1
+"111","[Blademaster]",45
+"112","[Bladesmaster Assassin]",0
+"113","[Bladesman]",1
+"114","[Blightranger General]",1
+"115","[Blightwarden]",1
+"116","[Blood Berserker]",0
+"117","[Bloodmage]",1
+"118","[Blood Mage]",1
+"119","[Boarder]",1
+"120","[Bodyguard]",9
+"121","[Boiler]",0
+"122","[Bone Surgeon]",0
+"123","[Bookbinder]",0
+"124","[Bookkeeper]",0
+"125","[Bookseller]",1
+"126","[Botanist]",0
+"127","[Bouncer]",21
+"128","[Bounty Hunter]",1
+"129","[Bow Knight]",0
+"130","[Bowman]",0
+"131","[Bow Sniper]",2
+"132","[Bow Rider]",0
+"133","[Bowyer]",0
+"134","[Brawler]",7
+"135","[Brewmaster]",0
+"136","[Bricklayer]",0
+"137","[Brigadier General]",0
+"138","[Brigand]",2
+"139","[Brine Cook]",0
+"140","[Broker]",0
+"141","[Builder]",4
+"142","[Burglar]",0
+"143","[Butcher]",7
+"144","[Butler]",26
+"145","[Camel Knight]",0
+"146","[Cameraman]",1
+"147","[Captain]",194
+"148","[Captain of the Horse]",2
+"149","[Captain of Horse]",1
+"150","[Horse Captain]",1
+"151","[Caravan Guard]",0
+"152","[Caravan Master]",0
+"153","[Caravaner]",0
+"154","[Carer]",1
+"155","[Cargomaster]",22
+"156","[Carpenter]",9
+"157","[Carpet Racer]",1
+"158","[Cartographer]",2
+"159","[Carver]",2
+"160","[Cataphract]",1
+"161","[Cavalry]",0
+"162","[Cavalryman]",0
+"163","[Cavalrywoman]",0
+"164","[Cavalry Lieutenant]",1
+"165","[Cellist]",0
+"166","[Chamberlain]",6
+"167","[Champion]",22
+"168","[Champion of Blades]",2
+"169","[Chatterbox]",0
+"170","[Charge Commander]",2
+"171","[Chariot Driver]",0
+"172","[Charioteer]",1
+"173","[Chef]",66
+"174","[Chevalier]",19
+"175","[Chief Miner]",6
+"176","[Chief Shaman]",0
+"177","[Chieftain]",23
+"178","[Choreographer]",1
+"179","[Chronomancer]",9
+"180","[City Crier]",0
+"181","[Cleaner]",2
+"182","[Cleric]",1
+"183","[Clerk]",2
+"184","[Climber]",0
+"185","[Clothier]",1
+"186","[Cloth Merchant]",0
+"187","[Clown]",106
+"188","[Coachman]",5
+"189","[Cobbler]",2
+"190","[Coin Lady]",1
+"191","[Colonel]",1
+"192","[Combat Butler]",2
+"193","[Commander]",100
+"194","[Commentator]",11
+"195","[Composer]",1
+"196","[Conqueror]",1
+"197","[Confectioner]",3
+"198","[Construction Supervisor]",1
+"199","[Consort]",0
+"200","[Consultant]",3
+"201","[Controller]",1
+"202","[Cook]",81
+"203","[Coordinator]",1
+"204","[Councilman]",0
+"205","[Councilwoman]",7
+"206","[Councilor]",0
+"207","[Councilor of State]",0
+"208","[Courier]",3
+"209","[Court...]",1
+"210","[Courtier]",1
+"211","[Cowboy Knight]",2
+"212","[Crafter]",0
+"213","[Craftsman]",1
+"214","[Craftswoman]",0
+"215","[Crier]",3
+"216","[Crime Lord]",1
+"217","[Criminal]",0
+"218","[Crystal Healer]",1
+"219","[Crossbowman]",4
+"220","[Cryomancer]",15
+"221","[Cultist]",1
+"222","[Cult Master]",1
+"223","[Cursed Outcast]",0
+"224","[Curse Mage]",1
+"225","[Cutthroat]",1
+"226","[Damsel]",0
+"227","[Dancer]",2
+"228","[Dashing Swordsman]",0
+"229","[Deadly Skulker]",1
+"230","[Deathbringer Scout]",1
+"231","[Death... ]",0
+"232","[Debt Collector]",0
+"233","[Deepforest Huntress]",0
+"234","[Defender]",0
+"235","[Defensive Commander]",1
+"236","[Demon Hunter]",5
+"237","[Demon Huntress]",4
+"238","[Depth... ]",0
+"239","[Destroyer Knight]",1
+"240","[Digger]",0
+"241","[Diplomat]",10
+"242","[Director]",0
+"243","[Disciple]",0
+"244","[Dishwasher]",1
+"245","[Dishwasher Cleaner]",1
+"246","[Diver]",0
+"247","[Diviner]",5
+"248","[Doctor]",159
+"249","[Dog Lord]",3
+"250","[Dominator]",1
+"251","[Doomseeker]",0
+"252","[Dowager]",1
+"253","[Dragonrider]",0
+"254","[Dragonslayer Strategist]",0
+"255","[Dragonslayer]",2
+"256","[Dragoon]",0
+"257","[Dribbler]",1
+"258","[Drillmaster]",0
+"259","[Driver]",18
+"260","[Druid]",160
+"261","[Druidess]",1
+"262","[Drummer]",5
+"263","[Drunk]",1
+"264","[Drinker]",2
+"265","[Drunkard]",2
+"266","[Dueling Princess]",0
+"267","[Duelist]",28
+"268","[Duke]",0
+"269","[Dyemaster]",0
+"270","[Earl]",5
+"271","[Earth Mage]",2
+"272","[Eater]",6
+"273","[Elementalist]",0
+"274","[Emir]",0
+"275","[Emissary]",2
+"276","[Emotional Innkeeper]",0
+"277","[Emperor]",274
+"278","[Empress]",49
+"279","[Emperor",278
+"280","Empress of Beasts]",5
+"281","[Enchanter]",86
+"282","[Enforcer]",3
+"283","[Engineer]",11
+"284","[Escort]",0
+"285","[Eternal Beauty]",4
+"286","[Everflame Alchemist]",0
+"287","[Executioner]",1
+"288","[Expert Rower]",5
+"289","[Explorer]",24
+"290","[Exterminator]",0
+"291","[Fairday Illusionist]",0
+"292","[Fairmaster]",2
+"293","[Falconer]",0
+"294","[Far Hunter]",4
+"295","[Farmer]",160
+"296","[Farmhand]",1
+"297","[Farm Worker]",0
+"298","[Farrier]",2
+"299","[Fashionista]",2
+"300","[Fearless ...]",0
+"301","[Fence]",0
+"302","[Fencer]",29
+"303","[Fermenter]",6
+"304","[Field Trainer]",1
+"305","[Fighter]",5
+"306","[Finder]",0
+"307","[Fire Mage]",0
+"308","[First Mate]",41
+"309","[First Sergeant]",0
+"310","[First Warrior]",3
+"311","[Fisher]",5
+"312","[Fisherman]",2
+"313","[Fist Fighter]",0
+"314","[Fistfighter]",10
+"315","[Fixer]",0
+"316","[Flailmaster]",0
+"317","[Flautist]",0
+"318","[Fleet Mage]",1
+"319","[Fleshchosen ...]",0
+"320","[Flesh Mage]",1
+"321","[Flesh Shaper]",1
+"322","[Flesh Reaper]",0
+"323","[Fletcher]",1
+"324","[Flier]",2
+"325","[Flight Captain]",1
+"326","[Flight Leader]",1
+"327","[Florist]",1
+"328","[Food Critic]",0
+"329","[Fool]",3
+"330","[Footpad]",0
+"331","[Footsoldier]",1
+"332","[Forager]",1
+"333","[Forager Cook]",3
+"334","[Foreign Commander]",0
+"335","[Foreman]",6
+"336","[Forewoman]",0
+"337","[Fore Drake]",0
+"338","[Forgemaster]",0
+"339","[Formshaper]",12
+"340","[Galewind Strategist]",0
+"341","[Gambler]",8
+"342","[Gambler of Fates]",1
+"343","[Gambler Strategist]",0
+"344","[Gamer]",1
+"345","[Gang Boss] = [Gang Leader]",0
+"346","[Gang Mastermind]",1
+"347","[Gardener]",11
+"348","[Gatherer]",1
+"349","[Gemcutter]",0
+"350","[Gem Mage]",0
+"351","[Gemstone Administrator]",0
+"352","[General]",274
+"353","[General of the Line]",0
+"354","[Gentleman Thief]",3
+"355","[Geomancer]",9
+"356","[Gladiator]",1
+"357","[Glassblower]",0
+"358","[Goblin Soulbard]",6
+"359","[Golem Artificer]",13
+"360","[Golem Maker]",3
+"361","[Gossip]",38
+"362","[Gourmand]",0
+"363","[Gourmet]",0
+"364","[Governess]",0
+"365","[Grabber]",1
+"366","[Grand Mage]",12
+"367","[Grand Magus]",3
+"368","[Grandmaster Strategist]",4
+"369","[Grandmaster]",0
+"370","[Grand Strategist]",42
+"371","[Grappler]",1
+"372","[Gravedigger]",0
+"373","[Gravitationist]",2
+"374","[Greatbow Archer]",0
+"375","[Greatbow Sniper]",1
+"376","[Great Chieftain]",2
+"377","[Great General]",1
+"378","[Greeter]",0
+"379","[Green Mage]",25
+"380","[Griffin Prince]",1
+"381","[Griffin Raider]",1
+"382","[Griffin Rider]",0
+"383","[Grower]",0
+"384","[Guard]",72
+"385","[Guardsman]",43
+"386","[Guardswoman]",25
+"387","[Guardspeople]",0
+"388","[Guide]",1
+"389","[Guildmaster]",1
+"390","[Guildmistress]",0
+"391","[Guitarist]",6
+"392","[Gun Scout]",2
+"393","[Gunslinger]",2
+"394","[Gynecolomancer]",0
+"395","[Hairdresser]",2
+"396","[Halberdier]",0
+"397","[Hammerer]",1
+"398","[Handler]",0
+"399","[Handmaiden]",0
+"400","[Handmaid]",0
+"401","[Harbormaster]",1
+"402","[Harbormistress]",22
+"403","[Harpist]",0
+"404","[Hauler]",0
+"405","[Hawker]",0
+"406","[Head ...]",0
+"407","[Headman]",11
+"408","[Headwoman]",3
+"409","[Headsman]",6
+"410","[Healer]",138
+"411","[Heckler]",0
+"412","[Hedgemage]",0
+"413","[Hedge Mage]",0
+"414","[Hedge Witch]",0
+"415","[Hedge Wizard]",0
+"416","[Heir]",0
+"417","[Heiress]",28
+"418","[Helmsman]",10
+"419","[Helmswoman]",1
+"420","[Herald]",0
+"421","[Herbalist]",0
+"422","[Herb Mixer]",0
+"423","[Herder]",1
+"424","[Hermit]",0
+"425","[Hero]",6
+"426","[Hider]",1
+"427","[Hideworker]",1
+"428","[High Admiral]",1
+"429","[Highborn]",1
+"430","[High King]",8
+"431","[High Mage]",29
+"432","[High Strategist]",1
+"433","[Highwayman]",0
+"434","[Historian]",4
+"435","[Honest Reporter]",0
+"436","[Honorbound Prisoner]",2
+"437","[Honored Shieldbearer]",0
+"438","[Honor Guard]",6
+"439","[Horncaller]",0
+"440","[Horse Handler]",0
+"441","[Horticulturalist]",0
+"442","[Host]",0
+"443","[Hostess]",0
+"444","[Hostler]",14
+"445","[Houndmaster]",0
+"446","[Housekeeper]",2
+"447","[House Manager]",3
+"448","[Hummer]",0
+"449","[Hunt Commander]",1
+"450","[Hunter]",41
+"451","[Huntress]",21
+"452","[Huntsman]",0
+"453","[Hydromancer]",9
+"454","[Ice Mage]",3
+"455","[Ice Queen]",1
+"456","[Idiot]",0
+"457","[Idler]",0
+"458","[Illusionist]",60
+"459","[Illustrator]",2
+"460","[Inferno Swmith]",0
+"461","[Innkeeper]",815
+"462","[Infiltrator]",4
+"463","[Informant]",1
+"464","[Inner Friend]",4
+"465","[Inn Manager]",1
+"466","[Interrogator]",0
+"467","[Inventor]",3
+"468","[Iron Tempest]",3
+"469","[Jarl]",0
+"470","[Javelineer]",0
+"471","[Javelineer Commander]",0
+"472","[Jester]",2
+"473","[Jeweler]",0
+"474","[Journalist]",2
+"475","[Judge]",0
+"476","[Juggernaut]",0
+"477","[Juggler]",2
+"478","[Kaiser]",0
+"479","[Kennel Master]",0
+"480","[Kicker]",8
+"481","[Kidnapper]",0
+"482","[King]",452
+"483","[King of Challenges]",21
+"484","[King of War]",1
+"485","[Kings Champion]",0
+"486","[Knifemaster]",0
+"487","[Knight]",290
+"488","[Knight Commander]",5
+"489","[Knight Errant]",0
+"490","[Knight of the Summer]",0
+"491","[Laborer]",7
+"492","[Lady]",575
+"493","[Lady Firestarter]",23
+"494","[Firestarter Lady]",1
+"495","[Lady of Pride]",8
+"496","[Lady of Thorns]",4
+"497","[Lancer]",6
+"498","[Landlady]",2
+"499","[Landlord]",1
+"500","[Landowner]",1
+"501","[Last Survivor]",1
+"502","[Layabout]",5
+"503","[Lead Actor]",0
+"504","[Lead Actress]",2
+"505","[Lead Engineer]",1
+"506","[Leader]",1
+"507","[Leatherworker]",1
+"508","[Lecturer]",0
+"509","[Liar]",0
+"510","[Librarian]",1
+"511","[Lieutenant]",46
+"512","[Light Mage]",0
+"513","[Lighting Mage]",0
+"514","[Lightning Mage]",0
+"515","[Lightningstrike Commander]",0
+"516","[Line Cook]",1
+"517","[Lineholder]",4
+"518","[Lineholder General]",0
+"519","[Logistics General]",2
+"520","[Lone Survivor]",0
+"521","[Longbow Archer]",0
+"522","[Longbow Sniper]",1
+"523","[Longstick Jumper]",4
+"524","[Lord]",400
+"525","[Lord Commander]",4
+"526","[Lordling]",8
+"527","[Lord of Battle]",1
+"528","[Lord of the Dance]",0
+"529","[Lover]",0
+"530","[Lumberjack]",0
+"531","[Maceman]",0
+"532","[Macewoman]",0
+"533","[Mad Clown]",1
+"534","[Mage]",510
+"535","[Mage Hunter]",0
+"536","[Mage...]",0
+"537","[Magestone Chieftain]",3
+"538","[Magical...]",0
+"539","[Magician]",8
+"540","[Magictech Engineer]",2
+"541","[Magus]",5
+"542","[Mahatma]",0
+"543","[Maid]",41
+"544","[Maid Mage]",0
+"545","[Major]",7
+"546","[Majordomo]",22
+"547","[Mammalogist]",0
+"548","[Manager]",26
+"549","[Manservant]",0
+"550","[Map Maker]",0
+"551","[Marauder]",2
+"552","[Marksman]",6
+"553","[Markswoman]",0
+"554","[Marquis]",3
+"555","[Marchioness]",0
+"556","[Martial Artist]",64
+"557","[Mason]",1
+"558","[Master ...]",0
+"559","[Mastermind]",4
+"560","[Mastermind Criminal]",1
+"561","[Mayor]",42
+"562","[Mechanic]",5
+"563","[Medic]",0
+"564","[Medical Assistant]",0
+"565","[Mercenary]",6
+"566","[Mercenary Captain]",0
+"567","[Merchant]",67
+"568","[Merchant Captain]",3
+"569","[Merchant Lord]",2
+"570","[Merchant of Curios]",1
+"571","[Messenger]",26
+"572","[Mess Sergeant]",0
+"573","[Metallurgist]",1
+"574","[Method Actor]",2
+"575","[Method Actress]",0
+"576","[Midwife]",0
+"577","[Militia]",0
+"578","[Miller]",0
+"579","[Minder]",1
+"580","[Miner]",15
+"581","[Mining Chieftain]",0
+"582","[Mining Leader]",2
+"583","[Minister]",2
+"584","[Mixer]",0
+"585","[Monarch]",0
+"586","[Monk]",1
+"587","[Monster Hunter]",0
+"588","[Murderer]",7
+"589","[Musician]",0
+"590","[Naturalist]",16
+"591","[Necromancer]",175
+"592","[Negotiator]",14
+"593","[Netter]",0
+"594","[Ninja]",0
+"595","[Nightman]",0
+"596","[Nightwoman]",0
+"597","[Nightpeople]",0
+"598","[Nightstalker] = [Nightwalker]",0
+"599","[Nightworker]",0
+"600","[Noble]",0
+"601","[Noblewoman]",0
+"602","[Nobleman]",0
+"603","[Nurse]",11
+"604","[Nursemaid]",1
+"605","[Oarsman]",0
+"606","[Obstetrician]",0
+"607","[Officer]",0
+"608","[Oldblood Mage]",0
+"609","[Oldblood Magus]",0
+"610","[Onslaught General]",9
+"611","[Opener]",0
+"612","[Orator]",0
+"613","[Outlaw]",0
+"614","[Overlord]",1
+"615","[Overseer]",0
+"616","[Pacifist]",0
+"617","[Packmaster]",0
+"618","[Painter]",3
+"619","[Paint Mage]",1
+"620","[Paladin]",9
+"621","[Partycrasher]",0
+"622","[Pathfinder]",0
+"623","[Peasant]",1
+"624","[Peerless...]",0
+"625","[Performer]",2
+"626","[Pickpocket]",0
+"627","[Pictorial Chef de Entremetier]",0
+"628","[Pillager]",0
+"629","[Pikeman]",0
+"630","[Pikewoman]",1
+"631","[[[Pirates|Pirate]]]",0
+"632","[Pirate Captain]",35
+"633","[Pirate Lord]",3
+"634","[Plague Mage]",5
+"635","[Plague Tamer]",0
+"636","[Poacher]",1
+"637","[Poet]",2
+"638","[Politician]",6
+"639","[Pop Star]",2
+"640","[Popstar]",31
+"641","[Porter]",0
+"642","[Potter]",3
+"643","[Preacher]",0
+"644","[President]",0
+"645","[Priest]",56
+"646","[Prime Minister]",17
+"647","[Prince]",45
+"648","[Princess]",499
+"649","[Prisoner]",3
+"650","[Producer]",12
+"651","[Promoter]",0
+"652","[Prostitute]",2
+"653","[Protector]",3
+"654","[Pup Owner]",0
+"655","[Publican]",1
+"656","[Pyromancer]",7
+"657","[Quarass]",0
+"658","[Quartermaster]",3
+"659","[Queen]",24
+"660","[Raider]",27
+"661","[Raid Leader]",11
+"662","[Rancher]",4
+"663","[Ranger]",7
+"664","[Reader]",2
+"665","[Receptionist]",91
+"666","[Reporter]",16
+"667","[Retainer]",5
+"668","[Rider]",18
+"669","[Roaster]",1
+"670","[Rogue]",41
+"671","[Roofer]",0
+"672","[Rotter]",2
+"673","[Rower]",7
+"674","[Royal ...]",0
+"675","[Ruffian]",0
+"676","[Ruler]",0
+"677","[Ruinbringer Steward]",7
+"678","[Runecrafter]",7
+"679","[Rune Master]",1
+"680","[Runemaster]",0
+"681","[Runemistress]",2
+"682","[Runeshaper]",0
+"683","[Runesmith]",2
+"684","[Runner]",6
+"685","[Saboteur]",0
+"686","[Sage]",0
+"687","[Sailor]",57
+"688","[Saint]",0
+"689","[Sand Brigadier]",0
+"690","[Sand Mage]",8
+"691","[Sasser]",1
+"692","[Savage Axeman]",0
+"693","[Savage Warrior]",0
+"694","[Saw Doctor]",1
+"695","[Scavenger]",1
+"696","[Scholar]",3
+"697","[Scoundrel]",1
+"698","[Scourer]",0
+"699","[Scout]",75
+"700","[Scout Commander]",1
+"701","[Scrapper]",0
+"702","[Scribe]",37
+"703","[Scribe Mage]",0
+"704","[Scrier]",9
+"705","[Scrollscribe]",0
+"706","[Sculler]",0
+"707","[Sea Lady]",3
+"708","[Sea Lord]",0
+"709","[Seamstress]",25
+"710","[Sewer]",0
+"711","[Secretary]",26
+"712","[Seducer]",0
+"713","[Seductress]",1
+"714","[Seer]",7
+"715","[Seeress]",1
+"716","[Senator]",20
+"717","[Senior Guard]",0
+"718","[Sentry]",0
+"719","[Sergeant]",81
+"720","[Serpent Hunter]",0
+"721","[Serpent Lady]",1
+"722","[Servant]",7
+"723","[Server]",7
+"724","[Sex Guru]",1
+"725","[Shadow General]",0
+"726","[Shadowworld Wanderer]",1
+"727","[Shaman]",166
+"728","[Shamanic Warrior]",5
+"729","[Shaper]",1
+"730","[Shapeshifter]",0
+"731","[Sharpener]",4
+"732","[Sharpshooter]",1
+"733","[Sheik]",0
+"734","[Shepherd]",3
+"735","[Shieldbearer]",4
+"736","[Shieldbreaker Axeman]",0
+"737","[Shield Captain]",0
+"738","[Shield Defender]",0
+"739","[Shield Hero]",0
+"740","[Shieldmaiden]",2
+"741","[Shield Maiden]",19
+"742","[Shieldmaster]",1
+"743","[Shieldwall Warrior]",0
+"744","[Shieldwall]",0
+"745","[Ship Lord]",0
+"746","[Shoemaker]",1
+"747","[Shop Assistant]",0
+"748","[Shopkeeper]",37
+"749","[Sigilist]",1
+"750","[Silent Commander]",1
+"751","[Silversteel Armsmistress]",7
+"752","[Sinew Magus]",96
+"753","[Sinew Mage]",0
+"754","[Singer]",49
+"755","[Skeleton Knight]",2
+"756","[Skeleton Warrior]",0
+"757","[Sketcher]",0
+"758","[Sketch Wizard]",0
+"759","[Skirmisher]",13
+"760","[Skulker]",7
+"761","[Skyrider of Ger]",1
+"762","[Skysword Master]",1
+"763","[Slaughterer]",0
+"764","[Slave]",7
+"765","[Slave Lord]",1
+"766","[Slaver]",0
+"767","[Slave Trader]",0
+"768","[Slinger]",2
+"769","[Smelter]",1
+"770","[Smith]",41
+"771","[Smoker]",3
+"772","[Smuggler]",0
+"773","[Sniper]",23
+"774","[Socialite]",1
+"775","[Soldier]",89
+"776","[Sole Survivor]",1
+"777","[Songwriter]",0
+"778","[Soothsayer]",0
+"779","[Sorcerer]",0
+"780","[Sorceress]",0
+"781","[Sous Chef]",0
+"782","[Spotter]",1
+"783","[Spear Captain]",0
+"784","[Spear Dancer]",0
+"785","[Spear Hunter]",1
+"786","[Spearman]",3
+"787","[Spearwoman]",0
+"788","[Spear Drake]",0
+"789","[Spearsman]",0
+"790","[Spearmaster]",21
+"791","[Spearmistress]",0
+"792","[Spearmaster General]",0
+"793","[Spear of the Drakes]",0
+"794","[Spear Soldier]",0
+"795","[Spear Warrior]",2
+"796","[Spectral Scoutlord]",1
+"797","[Spellarmor Warrior]",0
+"798","[Spellblade]",3
+"799","[Spellcaster]",0
+"800","[Spellscribe]",25
+"801","[Spellslinger]",12
+"802","[Spellsword]",3
+"803","[Spellweaver]",0
+"804","[Spiderweb Druid]",2
+"805","[Spinner]",2
+"806","[Spring Knight]",2
+"807","[Spy]",5
+"808","[Spymaster]",8
+"809","[Squad Captain]",0
+"810","[Squire]",4
+"811","[Stablehand]",0
+"812","[Stablemaster]",4
+"813","[Staffmaster]",1
+"814","[Stage Manager]",1
+"815","[Stall Attendant]",1
+"816","[Stall Keeper]",0
+"817","[Stalwart]",0
+"818","[Star Sorcerer]",0
+"819","[Steelflame Tactician]",1
+"820","[Steward]",122
+"821","[Stewer]",0
+"822","[Stirrer]",1
+"823","[Stichmistress]",0
+"824","[Stitchmaster]",0
+"825","[Stitch Witch]",8
+"826","[Stonecarver]",2
+"827","[Stone ...]",0
+"828","[Stonemason]",0
+"829","[Storm... ]",0
+"830","[Stormlord Captain]",7
+"831","[Stormwalker]",0
+"832","[Storyteller]",5
+"833","[Strategist]",287
+"834","[Street Brawler]",0
+"835","[Street Rat]",1
+"836","[Street Tough]",1
+"837","[Street Urchin]",1
+"838","[Strike Commander]",2
+"839","[Strike Strategist]",3
+"840","[Stripper]",1
+"841","[Strummer]",0
+"842","[Student]",7
+"843","[Sultan]",1
+"844","[Sultana]",0
+"845","[Summer Knight]",5
+"846","[Summoner]",24
+"847","[Supervisor]",1
+"848","[Supreme Matriarch]",0
+"849","[Survivalist]",0
+"850","[Survivor]",5
+"851","[Swamp Leader]",2
+"852","[Swamp Mage]",0
+"853","[Swashbuckler]",4
+"854","[Sweeper]",1
+"855","[Swindler]",0
+"856","[Switchblade Warrior]",1
+"857","[Sword Captain]",29
+"858","[Sword Dancer]",2
+"859","[Sword Mage]",0
+"860","[Swordslayer]",3
+"861","[Sword Slayer]",0
+"862","[Swordsman]",7
+"863","[Swordswoman]",0
+"864","[Tactician]",41
+"865","[Tailor]",3
+"866","[Tanner]",2
+"867","[Taskmaster]",0
+"868","[Taskmistress]",0
+"869","[Tattooist]",0
+"870","[Tavern Owner]",0
+"871","[Tax Collector]",2
+"872","[Teacher]",14
+"873","[Teamaker]",1
+"874","[Tea Witch]",4
+"875","[Technomage]",0
+"876","[Tennis Player]",0
+"877","[Thaumaturge]",8
+"878","[Thespian]",5
+"879","[Thief]",69
+"880","[Thought Healer]",1
+"881","[Thrower]",4
+"882","[Thrower Assassin]",1
+"883","[Thug]",21
+"884","[Thug Boss]",0
+"885","[Tinkerer]",3
+"886","[Tough]",1
+"887","[Tourist]",1
+"888","[Town Crier]",0
+"889","[Toymaker]",0
+"890","[Toy Maker]",0
+"891","[Tracker]",6
+"892","[Trader]",39
+"893","[Trained ...]",0
+"894","[Trainer]",3
+"895","[Traitor]",0
+"896","[Trapmaster]",41
+"897","[Trapmaster Assassin]",11
+"898","[Trapper]",1
+"899","[Trap Tactician]",0
+"900","[Trapsetter Tactician]",6
+"901","[Traveler]",0
+"902","[Treasure Hunter]",0
+"903","[Treasure Seeker]",1
+"904","[Trick Rider]",8
+"905","[Trickster]",0
+"906","[Troubadour]",1
+"907","[Trumpeter]",1
+"908","[Tumbler]",7
+"909","[Tutor]",0
+"910","[Tyrant]",2
+"911","[Undead Hunter]",0
+"912","[Undead Leader]",1
+"913","[Undertaker]",0
+"914","[Undying King]",0
+"915","[Vampire Hunter]",1
+"916","[Vanguard]",32
+"917","[Veiled Consort]",1
+"918","[Venom Archer]",2
+"919","[Veteran...]",0
+"920","[Violinist]",1
+"921","[Village Elder]",1
+"922","[Village Head]",1
+"923","[Village Headwoman]",1
+"924","[Village Leader]",0
+"925","[Viperborn]",1
+"926","[Wagon Driver]",4
+"927","[Waiter]",12
+"928","[Waitress]",16
+"929","[Walker]",0
+"930","[Wanderer]",0
+"931","[Warden]",8
+"932","[Wardmaster]",0
+"933","[Wardmistress]",1
+"934","[War Lady]",0
+"935","[Warlord]",3
+"936","[War Leader]",5
+"937","[Warlock]",0
+"938","[Warmage]",0
+"939","[Warmage Scout]",1
+"940","[Warmaster]",0
+"941","[War Merchant]",0
+"942","[Warrior]",101
+"943","[Warrior Lady]",1
+"944","[Warrior Queen]",0
+"945","[War Scout]",3
+"946","[War Strategist]",2
+"947","[Washer]",4
+"948","[Washerwoman]",0
+"949","[Watch Captain]",2
+"950","[Watchman]",1
+"951","[Water Mage]",0
+"952","[Weapon Expert]",4
+"953","[Weapon Master]",5
+"954","[Weather Mage]",2
+"955","[Weather Ranger]",1
+"956","[Weaver]",2
+"957","[Wet Nurse]",1
+"958","[Wild General]",0
+"959","[Wildsoul Warrior]",0
+"960","[Wing Commander]",6
+"961","[Winter Knight]",3
+"962","[Witch]",214
+"963","[Witch Doctor]",0
+"964","[Witcher]",0
+"965","[Witch General]",0
+"966","[Witch Hunter]",0
+"967","[Witch Teacher]",1
+"968","[Wizard]",10
+"969","[Wolfbane Hunter]",0
+"970","[Wolf Rider]",0
+"971","[Woodcutter]",1
+"972","[Wood Cutter]",0
+"973","[Woodworker]",0
+"974","[Worker]",1
+"975","[Workhand]",0
+"976","[Worldly Princess]",3
+"977","[Wounded Warrior]",0
+"978","[Writer]",9
+"979","[Wyvern Rider]",2
+"980","[Young Hunter]",1
